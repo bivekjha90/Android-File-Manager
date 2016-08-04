@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:4:1-78:12
+	package
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:7:7-34
+	android:versionCode
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:6:7-32
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:4:11-69
+	android:installLocation
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:8:7-37
+application
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:9:5-64:15
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:9:48-80
+	android:debuggable
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:10:9-34
+	android:icon
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:9:18-47
+activity#com.bivek.manager.Settings
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:13:6-93
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:13:58-90
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:13:16-57
+activity#com.bivek.manager.ProcessManager
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:14:6-102
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:14:64-99
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:14:16-63
+activity#com.bivek.manager.WirelessManager
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:15:6-104
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:15:65-101
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:15:16-64
+activity#com.bivek.manager.ApplicationBackup
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:16:6-108
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:16:67-105
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:16:16-66
+activity#com.bivek.manager.Main
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:18:9-30:20
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:19:19-51
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:18:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:22:27-74
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:24:13-29:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:25:14-73
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:25:22-70
+data
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:26:14-45
+	android:mimeType
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:26:20-42
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:27:14-74
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:27:24-71
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:28:14-73
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:28:24-70
+activity#com.bivek.manager.AudioPlayblack
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:32:6-34:56
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:33:10-46
+	android:theme
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:34:10-53
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:32:16-63
+activity#com.bivek.manager.DirectoryInfo
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:36:6-43:17
+	android:enabled
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:36:63-85
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:37:10-42
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:36:16-62
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:38:7-42:23
+action#android.intent.action.VIEW
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:39:8-60
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:39:16-57
+activity#com.bivek.manager.HelpManager
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:45:6-47:56
+	android:label
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:46:10-44
+	android:theme
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:47:10-53
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:45:16-60
+supports-screens
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:65:2-67:38
+	android:largeScreens
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:67:8-35
+	android:smallScreens
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:65:20-47
+	android:normalScreens
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:66:8-36
+uses-sdk
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:68:5-69:37
+	android:maxSdkVersion
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:69:9-35
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:68:15-40
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:71:5-80
+	android:name
+		ADDED from C:\Users\Bivek\Desktop\Android-File-Manager-master1-2016-07-28\Android-File-Manager-master1\app\src\main\AndroidManifest.xml:71:22-78

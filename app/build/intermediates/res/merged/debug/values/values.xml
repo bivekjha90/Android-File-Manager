@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Bivek/Desktop/Android-File-Manager-master1-2016-07-28/Android-File-Manager-master1/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="brightBlue">#0000FF</color>
+    <color name="brightGreen">#00FF00</color>
+    <color name="brightRed">#FF0000</color>
+    <color name="darkBlue">#880000FF</color>
+    <color name="darkGray">#333333</color>
+    <color name="lightGray">#777777</color>
+    <color name="offWhite">#DDDDDD</color>
+    <color name="transGray">#cc444444</color>
+    <color name="transparent">#000000FF</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/C:/Users/Bivek/Desktop/Android-File-Manager-master1-2016-07-28/Android-File-Manager-master1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">BIVEK</string>
+    <string name="dir_info">Folder Information</string>
+    <string name="manager_act">Phone Management</string>
+    <string name="media_dialog">Media preview</string>
+</resources>
